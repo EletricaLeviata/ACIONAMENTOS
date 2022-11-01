@@ -15,7 +15,7 @@ const int analogInPin2 = 35;    //Bota na D35
 
 int rele1 = 4;                   //Bota na D4
 int rele2 = 5;                  //Bota na D5
-int rele3 = 26;                  //Bota na D5
+int rele3 = 19;                  //Bota na D19
 
 
 int valorSensor1 = 0; 
