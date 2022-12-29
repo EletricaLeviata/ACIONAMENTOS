@@ -10,8 +10,8 @@
  */
  
 
-const int analogInPin1 = 34;     //Bota na D34
-const int analogInPin2 = 35;    //Bota na D35
+const int analogInPin1 = 12;     //Bota na D12
+const int analogInPin2 = 13;    //Bota na D13
 
 int rele1 = 4;                   //Bota na D4
 int rele2 = 5;                  //Bota na D5
